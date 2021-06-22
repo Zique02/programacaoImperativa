@@ -9,4 +9,4 @@ function maiorNumero(...num){
 
 }
 
-maiorNumero(847, 32, 52, 259, 64, 4);
+maiorNumero(847, 32, 52, 259, 64, 4) ;
